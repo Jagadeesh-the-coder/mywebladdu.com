@@ -1,0 +1,67 @@
+
+*{
+margin: 10px;
+padding: 10px;
+border: 10px;
+color:black;
+}
+
+img{
+margin: 50px;
+border: 4px solid#B3D8A8;
+border-radius: 10px;
+display: flex;
+justify-content:left;
+justify-items: center;
+background-color:#B3D8A8;
+}
+h1{
+color: black;
+background-color:#B3D8A8 ;
+border: 2px;
+border-radius: 15px;
+}
+#button{
+background-color:#B3D8A8;
+text-align: end;
+border-radius: 15px;
+
+}
+#about{
+background-color: #B3D8A8;  
+border-radius: 15px; 
+}
+#skills{
+background-color:#B3D8A8; 
+border-radius: 15px;
+
+}
+#projects{
+background-color: #B3D8A8; 
+border-radius: 15px;
+
+}
+#contact {
+background-color: #B3D8A8; 
+border-radius: 15px;
+
+}
+button{
+border: 1px solid red;
+border-radius: 12px;
+color:black;
+background-color:#FBFFE4 ;
+
+}
+footer{
+color: black;
+}
+body{
+background-color: #3D8D7A;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+display:inline;
+border-radius: 80px;
+}
+
+  
+
